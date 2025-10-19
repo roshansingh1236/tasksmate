@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="images/ic_launcher.webp" alt="TaskMate Logo" width="120" height="120"/>
+  <img src="images/ic_launcher.webp" alt="tasksmate Logo" width="120" height="120"/>
   
-  # 🚀 TaskMate
+  # 🚀 Tasksmate
   
   ### Your Ultimate Project & Task Management Companion
   
   *Streamline your workflow, boost productivity, and collaborate seamlessly*
   
-  [![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/yourusername/TaskMate)
+  [![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/yourusername/tasksmate)
   [![Flutter](https://img.shields.io/badge/Flutter-3.2.3+-02569B.svg?logo=flutter)](https://flutter.dev)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   
@@ -15,11 +15,11 @@
 
 ---
 
-## 📱 About TaskMate
+## 📱 About tasksmate
 
-**TaskMate** is a comprehensive, feature-rich project management and productivity application designed for individuals, teams, and businesses. Whether you're managing personal tasks, collaborating with teams, tracking work hours, or generating invoices, TaskMate has everything you need in one powerful platform.
+**tasksmate** is a comprehensive, feature-rich project management and productivity application designed for individuals, teams, and businesses. Whether you're managing personal tasks, collaborating with teams, tracking work hours, or generating invoices, tasksmate has everything you need in one powerful platform.
 
-Built with **Flutter** for cross-platform compatibility and powered by **Firebase** for real-time synchronization, TaskMate delivers a seamless experience across all your devices.
+Built with **Flutter** for cross-platform compatibility and powered by **Firebase** for real-time synchronization, tasksmate delivers a seamless experience across all your devices.
 
 ---
 
@@ -168,7 +168,7 @@ Perfect for individual use and personal productivity.
 ### 🚀 **TasksMate Pro** (Premium)
 **₹699 / Month**
 
-Unlock the full power of TaskMate for teams and businesses.
+Unlock the full power of tasksmate for teams and businesses.
 
 **Everything in SoloMate, PLUS:**
 
@@ -218,9 +218,9 @@ Unlock the full power of TaskMate for teams and businesses.
 ### Option 1: Download APK (For Android Users)
 
 #### 📲 **Download APK**
-1. Visit the [Releases Page](https://github.com/yourusername/TaskMate/releases)
-2. Download the latest `TaskMate-v1.0.2.apk` file
-3. Or download directly from our website: [tasksmate.app/download](#) *(coming soon)*
+1. Visit the [Releases Page](https://github.com/yourusername/tasksmate/releases)
+2. Download the latest `tasksmate-v1.0.2.apk` file
+3. Or download directly from our website: [tasksmate.in/download](#) *(coming soon)*
 
 #### 🔧 **Installation Steps**
 
@@ -231,13 +231,13 @@ Unlock the full power of TaskMate for teams and businesses.
    - On Android 8.0+: Go to **Settings** → **Apps & Notifications** → **Special App Access** → **Install Unknown Apps** → Select your browser → Enable
 
 **Step 2: Install the APK**
-1. Open the downloaded `TaskMate-v1.0.2.apk` file from your **Downloads** folder
+1. Open the downloaded `tasksmate-v1.0.2.apk` file from your **Downloads** folder
 2. Tap **Install**
 3. Wait for installation to complete
-4. Tap **Open** to launch TaskMate
+4. Tap **Open** to launch tasksmate
 
 **Step 3: Grant Permissions**
-When you first open TaskMate, grant the following permissions:
+When you first open tasksmate, grant the following permissions:
 - 📸 **Camera** - For profile pictures and document scanning
 - 📁 **Storage** - For file attachments and downloads
 - 🔔 **Notifications** - For task reminders and alerts
@@ -259,7 +259,7 @@ When you first open TaskMate, grant the following permissions:
 ## 🚀 Getting Started (For Users)
 
 ### 1️⃣ **Create Your Account**
-1. Open TaskMate app
+1. Open tasksmate app
 2. Choose sign-up method:
    - 📧 **Email & Password**
    - 🍎 **Sign in with Apple**
@@ -348,8 +348,8 @@ When you first open TaskMate, grant the following permissions:
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/TaskMate.git
-cd TaskMate
+git clone https://github.com/yourusername/tasksmate.git
+cd tasksmate
 ```
 
 #### **2. Install Dependencies**
@@ -480,21 +480,21 @@ lib/
 
 ### **General Questions**
 
-**Q: What is TaskMate?**  
-A: TaskMate is a comprehensive project and task management application that helps individuals and teams organize work, collaborate effectively, and track productivity.
+**Q: What is tasksmate?**  
+A: tasksmate is a comprehensive project and task management application that helps individuals and teams organize work, collaborate effectively, and track productivity.
 
-**Q: Is TaskMate free to use?**  
-A: Yes! TaskMate offers a free **SoloMate** plan with unlimited personal tasks. Premium features are available with the **TasksMate Pro** subscription at ₹699/month.
+**Q: Is tasksmate free to use?**  
+A: Yes! tasksmate offers a free **SoloMate** plan with unlimited personal tasks. Premium features are available with the **TasksMate Pro** subscription at ₹699/month.
 
-**Q: What platforms does TaskMate support?**  
-A: TaskMate is built with Flutter and supports:
+**Q: What platforms does tasksmate support?**  
+A: tasksmate is built with Flutter and supports:
 - 📱 Android (5.0 and above)
 - 🍎 iOS (12.0 and above)
 - 🌐 Web (coming soon)
 - 💻 Desktop (Windows, macOS, Linux - in development)
 
-**Q: Do I need an internet connection to use TaskMate?**  
-A: TaskMate works offline for basic features. Internet is required for:
+**Q: Do I need an internet connection to use tasksmate?**  
+A: tasksmate works offline for basic features. Internet is required for:
 - Syncing data across devices
 - Team collaboration
 - AI features
@@ -535,7 +535,7 @@ A:
 - **TasksMate Pro**: Unlimited tasks, projects, and team members
 
 **Q: Can I import tasks from other apps?**  
-A: Currently, TaskMate doesn't support direct imports, but you can copy-paste task data. Bulk import via Excel/CSV is planned for future updates.
+A: Currently, tasksmate doesn't support direct imports, but you can copy-paste task data. Bulk import via Excel/CSV is planned for future updates.
 
 **Q: How does the AI assistant work?**  
 A: The AI assistant (Pro feature) uses natural language processing to help you:
@@ -545,7 +545,7 @@ A: The AI assistant (Pro feature) uses natural language processing to help you:
 - Answer productivity questions
 
 **Q: Can I customize the app's appearance?**  
-A: Yes! TaskMate offers:
+A: Yes! tasksmate offers:
 - Light and Dark themes
 - Custom accent colors (Pro)
 - Font selection (Pro)
@@ -630,7 +630,7 @@ A: No, we never sell your data. We use analytics tools (Firebase Analytics, Micr
 **Q: The app crashes or won't open. What should I do?**  
 A:
 1. Restart your device
-2. Clear app cache: **Settings** → **Apps** → **TaskMate** → **Clear Cache**
+2. Clear app cache: **Settings** → **Apps** → **tasksmate** → **Clear Cache**
 3. Update to the latest version
 4. Reinstall the app
 5. Contact support if the issue persists
@@ -643,8 +643,8 @@ A:
 
 **Q: I'm not receiving notifications. Help!**  
 A:
-1. Go to device **Settings** → **Apps** → **TaskMate** → **Notifications** → Enable
-2. In TaskMate: **Settings** → **Notifications** → Enable all types
+1. Go to device **Settings** → **Apps** → **tasksmate** → **Notifications** → Enable
+2. In tasksmate: **Settings** → **Notifications** → Enable all types
 3. Ensure Do Not Disturb is off
 
 **Q: The app is slow. How can I improve performance?**  
@@ -834,7 +834,7 @@ We welcome contributions from the community! Here's how you can help:
 - 💼 **LinkedIn**: [linkedin.com/company/tasksmate](#)
 
 ### **Developer Community**
-- 💻 **GitHub**: [github.com/yourusername/TaskMate](https://github.com/yourusername/TaskMate)
+- 💻 **GitHub**: [github.com/yourusername/tasksmate](https://github.com/yourusername/tasksmate)
 - 💬 **Discord**: [discord.gg/tasksmate](#)
 - 📝 **Blog**: [blog.tasksmate.app](#)
 
@@ -868,15 +868,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
   
-  ### Made with ❤️ by the TaskMate Team
+  ### Made with ❤️ by the tasksmate Team
   
-  **⭐ Star us on GitHub if you find TaskMate helpful!**
+  **⭐ Star us on GitHub if you find tasksmate helpful!**
   
-  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/TaskMate?style=social)](https://github.com/yourusername/TaskMate)
-  [![GitHub Forks](https://img.shields.io/github/forks/yourusername/TaskMate?style=social)](https://github.com/yourusername/TaskMate/fork)
+  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/tasksmate?style=social)](https://github.com/yourusername/tasksmate)
+  [![GitHub Forks](https://img.shields.io/github/forks/yourusername/tasksmate?style=social)](https://github.com/yourusername/tasksmate/fork)
   
   ---
   
-  **Download TaskMate today and transform the way you work!** 🚀
+  **Download tasksmate today and transform the way you work!** 🚀
   
 </div>
