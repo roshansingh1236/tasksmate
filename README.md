@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[images/ic_launcher.webp](https://firebasestorage.googleapis.com/v0/b/taskmate-48642.appspot.com/o/logos%2F_-%20.png?alt=media&token=dbb3b0aa-6429-4346-9bf5-fef826755267)" alt="tasksmate Logo" width="120" height="120"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/taskmate-48642.appspot.com/o/logos%2F_-%20.png?alt=media&token=dbb3b0aa-6429-4346-9bf5-fef826755267" alt="tasksmate Logo" width="120" height="120"/>
   
   # 🚀 Tasksmate
   
